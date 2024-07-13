@@ -31,7 +31,7 @@ const Navbar = () => {
             Install App
           </p>
           <p className="bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center">
-            S
+            U
           </p>
         </div>
       </div>
